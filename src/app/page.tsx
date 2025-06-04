@@ -1,6 +1,5 @@
 import { Avatar, Typography, Box, Button } from "@mui/material";
 import ProfilePic from "../../public/profile-pic.png";
-import Image from "next/image";
 
 const buttonLinks = [
   {
