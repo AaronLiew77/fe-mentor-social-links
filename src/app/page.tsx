@@ -68,7 +68,7 @@ export default function Home() {
           </Box>
 
           <Typography variant='preset2' sx={{ color: "text.primary" }}>
-            "Front-end developer and avid reader"
+            &quot;Front-end developer and avid reader&quot;
           </Typography>
 
           <Box
